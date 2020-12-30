@@ -1,0 +1,24 @@
+{
+    "title": "Kartikay's Resume",
+    "name": "resume-Kartikay",
+    "version": "1.0.0",
+    "description": "A digital version of the traditional paper resume.",
+    "keywords": [
+        "resume",
+        "Kartikay"
+    ],
+    
+    "license": "MIT",
+    "author": "Kartikay Chahal",
+    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "5.10.2",
+        "bootstrap": "4.3.1",
+        "jquery": "3.5.0",
+        "jquery.easing": "^1.4.1"
+    }
+}
